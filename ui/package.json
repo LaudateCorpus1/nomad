@@ -106,6 +106,6 @@
     "paths": ["lib/bulma"]
   },
   "dependencies": {
-    "lru_map": "^0.3.3"
+    "lru_map": "^0.4.1"
   }
 }
